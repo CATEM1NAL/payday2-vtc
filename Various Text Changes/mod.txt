@@ -1,9 +1,9 @@
 {
-	"name" : "Various Text Changes 6",
-	"description" : "Replaces various lines of text throughout the game to increase consistency and simplicity.",
-	"author" : "Ema Pex",
-	"contact" : "emapex12@gmail.com",
-	"version" : "6.11.2",
+	"name" : "Various Text Changes 7",
+	"description" : "Replaces various lines of text throughout the game for consistency and simplicity.",
+	"author" : "C@:\\EM1NAL\\",
+	"contact" : "contact@stupidcat.uk",
+	"version" : "7.0.0",
 	"blt_version" : 2,
 	"color" : "51 153 204",
 	"image" : "vtc.png",
@@ -11,16 +11,10 @@
 	"updates" : [
 		{
 			"identifier": "vtc",
-			"revision": 81,
-			"host": {
-				"meta": "https://github.com/TemApex/payday2-vtc/raw/master/meta.json"
-			}
+			"host": { "meta":"https://github.com/CATEM1NAL/payday2-vtc/raw/master/meta.json" }
 		}
 	],
 	"hooks" : [
-		{
-			"hook_id": "lib/managers/menumanager",
-			"script_path": "vtc.lua"
-		}
+		{ "hook_id":"lib/managers/menumanager","script_path":"vtc.lua" }
 	]
 }
