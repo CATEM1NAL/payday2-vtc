@@ -1,8 +1,8 @@
 [
 	{
 		"ident" : "vtc",
-		"hash" : "dda932a3fb2dfacdecdf67f1e8e68bbb1b11cd5c6390a3b5933a645200f2dec0",
-		"patchnotes_url" : "https://docs.google.com/document/d/1LG0CbpUT2tjNBH-HdFwX7OeSeOGDFKLA4EHgI7gy0-g",
-		"download_url" : "https://github.com/TemApex/payday2-vtc/raw/master/VTC.zip"
+		"version": "7.0.0",
+		"patchnotes_url" : "https://github.com/CATEM1NAL/payday2-vtc/releases/latest",
+		"download_url" : "https://github.com/CATEM1NAL/payday2-vtc/releases/latest/download/APyday-2.zip"
 	}
 ]
