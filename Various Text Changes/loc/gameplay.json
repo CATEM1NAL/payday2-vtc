@@ -707,7 +707,6 @@
 	"hud_hold_assemble_bomb" : "$BTN_INTERACT Assemble Bomb",
 	"hud_press_spider_button" : "$BTN_INTERACT Spider",
 	"hud_press_lizard_button" : "$BTN_INTERACT Lizard",
-	"hud_press_spider_button" : "$BTN_INTERACT Spider",
 	"hud_press_snail_button" : "$BTN_INTERACT Snail",
 	"hud_press_frog_button" : "$BTN_INTERACT Frog",
 	"hud_press_fish_button" : "$BTN_INTERACT Fish",
@@ -869,5 +868,6 @@
 	"prop_computer_gui_unlocking" : "UNLOCKING",
 	"prop_security_lock_title" : "STAGE $NR",
 	"hud_int_press_cancel" : "$BTN_INTERACT Cancel",
+	"hud_int_release_cancel" : "Release $BTN_INTERACT to Cancel",
 	"hud_int_press_cancel_alarm" : "$BTN_INTERACT Trigger Alarm"
 }

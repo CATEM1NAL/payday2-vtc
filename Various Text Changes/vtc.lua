@@ -18,23 +18,23 @@ Hooks:Add("MenuManagerBuildCustomMenus", "vtc_menumanager", function()
 end)
 
 Hooks:Add("LocalizationManagerPostInit", "vtc_loc", function(loc)
-	loc:load_localization_file(VTCPath .. "fixes.json")
+	loc:load_localization_file(VTCPath .. "loc/fixes.json")
 	if vtc_options.vtc_main_menu then
-		loc:load_localization_file(VTCPath .. "menu.json")
+		loc:load_localization_file(VTCPath .. "loc/menu.json")
 	end
 	if vtc_options.vtc_crimenet then
-		LocalizationManager:load_localization_file(VTCPath .. "crimenet.json")
+		LocalizationManager:load_localization_file(VTCPath .. "loc/crimenet.json")
 	end
 	if vtc_options.vtc_preplanning then
-		LocalizationManager:load_localization_file(VTCPath .. "preplanning.json")
+		LocalizationManager:load_localization_file(VTCPath .. "loc/preplanning.json")
 	end
 	if vtc_options.vtc_gameplay then
-		LocalizationManager:load_localization_file(VTCPath .. "gameplay.json")
-		LocalizationManager:load_localization_file(VTCPath .. "hints.json")
+		LocalizationManager:load_localization_file(VTCPath .. "loc/gameplay.json")
+		LocalizationManager:load_localization_file(VTCPath .. "loc/hints.json")
 	end
 	if vtc_options.vtc_discord then
-		LocalizationManager:load_localization_file(VTCPath .. "discord.json")
+		LocalizationManager:load_localization_file(VTCPath .. "loc/discord.json")
 	end
 end)
 
-MenuHelper:LoadFromJsonFile(ModPath .. "vtc_menu.txt", nil, vtc_options)
+MenuHelper:LoadFromJsonFile(VTCPath .. "vtc_menu.txt", nil, vtc_options)

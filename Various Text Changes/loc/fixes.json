@@ -1,6 +1,6 @@
 {
 	"vtc_options_name" : "Various Text Changes",
-	"vtc_options_desc" : "Select your Various Text Changes!"
+	"vtc_options_desc" : "Select your Various Text Changes!",
 	"vtc_toggle_main_menu" : "Menu Text Changes",
 	"vtc_toggle_main_menu_desc" : "Turn on/off all menu changes.",
 	"vtc_toggle_crimenet" : "Crime.net Text Changes",
