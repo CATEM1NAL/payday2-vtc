@@ -1,7 +1,7 @@
 [
 	{
 		"ident" : "vtc",
-		"version": "7.0.0",
+		"version": "7.0.1",
 		"patchnotes_url" : "https://github.com/CATEM1NAL/payday2-vtc/releases/latest",
 		"download_url" : "https://github.com/CATEM1NAL/payday2-vtc/releases/latest/download/VTC.zip"
 	}
