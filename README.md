@@ -20,7 +20,7 @@ I don't plan on adding support for custom heists due to how long it would take t
 
 **HUD Compatibility:**
 
-Realistically this works with every HUD mod because it only changes text, but certain HUD mods do have visual issues. [PDTH HUD](https://modworkshop.net/mod/19900) has issues with certain prompts, such as "You are being revived" or "You need X item". These prompts will display the interaction bar with no text. Any other HUD that adds a background to interaction prompts might have the same issue, but otherwise they should function normally - they will just look a bit strange. If you want to see if a HUD has issues just try it out and decide for yourself if it works - if it does cause issues, you can always turn off **Gameplay Text Changes** in the options.
+Realistically this works with every HUD mod because it only changes text, but certain HUD mods do have visual issues. [PDTH HUD](https://modworkshop.net/mod/19900) has issues with certain prompts, such as "You are being revived" or "You need X item". These prompts will display the interaction bar with no text. Any other HUD that adds a background to interaction prompts might have the same issue, but otherwise they should function normally - they will just look a bit strange. If you want to see if a HUD has issues just try it out and decide for yourself if it works - if it does cause issues, you can always turn off Gameplay Text Changes in the options.
 
 HUDs that I have personally tested and can confirm have no issues are: [MUI](https://modworkshop.net/mod/41187), [VanillaHUD+](https://modworkshop.net/mod/25629), and the default HUD.
 
