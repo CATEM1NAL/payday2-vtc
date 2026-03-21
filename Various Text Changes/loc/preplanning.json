@@ -127,7 +127,7 @@
 	"menu_pp_asset_fex_stealth_semi_open_garage_door" : "Garage Door",
 	"menu_pp_asset_fex_stealth_semi_open_garage_door_desc" : "The garage door has been left semi-open for you to sneak through.",
 	"menu_pp_asset_bex_garbage_truck_desc" : "A garbage truck will be waiting for you to throw bags into.\n\nStealth only.",
-	"menu_pp_asset_bex_car_pull" : "Vlad has an alternate way into the bank prepared...\n\nLoud only.",
+	"menu_pp_asset_bex_car_pull_desc" : "Vlad has an alternate way into the bank prepared...\n\nLoud only.",
 	"menu_pp_asset_corp_lower_hacktime" : "Overclocking",
 	"menu_pp_asset_corp_lower_hacktime_desc" : "Reduce the time it takes to hack the lab doors.\n\nLoud only."
 }

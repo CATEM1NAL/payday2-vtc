@@ -618,7 +618,7 @@
 	"debug_interact_elevator_door" : "$BTN_INTERACT Call Elevator",
 	"debug_interact_crowbar_breach" : "$BTN_INTERACT Breach",
 	"hud_int_pku_force_open_vent" : "$BTN_INTERACT Open Vent",
-	"hud_int_press_signal_operator " : "$BTN_INTERACT Signal",
+	"hud_int_press_signal_operator" : "$BTN_INTERACT Signal",
 	"hint_no_notepad" : "",
 	"hud_int_hold_start_fire_alarm" : "$BTN_INTERACT Trigger Alarm",
 	"hud_int_hold_repair_cable" : "$BTN_INTERACT Fix Cable",
@@ -757,7 +757,7 @@
 	"hud_int_action_lrm_safe_keycard" : "",
 	"hud_int_use_lrm_safe_keycard" : "$BTN_INTERACT Insert Keycard",
 	"debug_interact_trade_hostage_skm" : "$BTN_INTERACT Trade Hostage",
-	"hud_int_press_0 " : "0",
+	"hud_int_press_0" : "0",
 	"hud_int_press_01" : "1",
 	"hud_int_press_02" : "2",
 	"hud_int_press_03" : "3",
@@ -869,5 +869,6 @@
 	"prop_security_lock_title" : "STAGE $NR",
 	"hud_int_press_cancel" : "$BTN_INTERACT Cancel",
 	"hud_int_release_cancel" : "Release $BTN_INTERACT to Cancel",
-	"hud_int_press_cancel_alarm" : "$BTN_INTERACT Trigger Alarm"
+	"hud_int_press_cancel_alarm" : "$BTN_INTERACT Trigger Alarm",
+	"hud_int_hold_xm20_mask" : "$BTN_INTERACT Take Mask",
 }

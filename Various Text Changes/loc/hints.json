@@ -81,7 +81,7 @@
 	"hud_hint_cop_body_bag" : "Alert: Guard detected a body bag.",
 	"hud_hint_cop_vault" : "Alert: Guard detected an open vault.",
 	"hud_hint_cop_saw" : "Alert: Guard detected a saw.",
-	"hud_hint_alarm_civ " : "Alert: Panic button pressed.",
+	"hud_hint_alarm_civ" : "Alert: Panic button pressed.",
 	"hud_hint_blame_missing" : "Alert: Someone saw suspicious activity.",
 	"hud_hint_blame_csgo_gunfire" : "Alert: Neighbors called police.",
 	"hud_hint_mot_criminal" : "Alert: Lasers tripped.",

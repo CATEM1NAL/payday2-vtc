@@ -3,7 +3,7 @@
 	"description" : "Replaces various lines of text throughout the game for consistency and simplicity.",
 	"author" : "C@:\\EM1NAL\\",
 	"contact" : "contact@stupidcat.uk",
-	"version" : "7.0.1",
+	"version" : "7.0.2",
 	"blt_version" : 2,
 	"color" : "51 153 204",
 	"image" : "vtc.png",
