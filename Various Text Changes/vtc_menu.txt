@@ -1,0 +1,53 @@
+{
+  "menu_id" : "vtc_menu",
+  "parent_menu_id" : "blt_options",
+  "title" : "vtc_options_name",
+  "description" : "vtc_options_desc",
+  "items" : [
+    {
+      "type" : "toggle",
+      "id" : "vtc_main_menu",
+      "title" : "vtc_toggle_main_menu",
+      "description" : "vtc_toggle_main_menu_desc",
+      "callback" : "vtc_save_json",
+      "value" : "vtc_main_menu",
+      "default_value" : true
+    },
+    {
+      "type" : "toggle",
+      "id" : "vtc_crimenet",
+      "title" : "vtc_toggle_crimenet",
+      "description" : "vtc_toggle_crimenet_desc",
+      "callback" : "vtc_save_json",
+      "value" : "vtc_crimenet",
+      "default_value" : true
+    },
+    {
+      "type" : "toggle",
+      "id" : "vtc_preplanning",
+      "title" : "vtc_toggle_preplanning",
+      "description" : "vtc_toggle_preplanning_desc",
+      "callback" : "vtc_save_json",
+      "value" : "vtc_preplanning",
+      "default_value" : true
+    },
+    {
+      "type" : "toggle",
+      "id" : "vtc_gameplay",
+      "title" : "vtc_toggle_gameplay",
+      "description" : "vtc_toggle_gameplay_desc",
+      "callback" : "vtc_save_json",
+      "value" : "vtc_gameplay",
+      "default_value" : true
+    },
+    {
+      "type" : "toggle",
+      "id" : "vtc_discord",
+      "title" : "vtc_toggle_discord",
+      "description" : "vtc_toggle_discord_desc",
+      "callback" : "vtc_save_json",
+      "value" : "vtc_discord",
+      "default_value" : true
+    }
+  ]
+}
