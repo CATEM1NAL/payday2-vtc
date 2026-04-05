@@ -7,7 +7,6 @@
 	"blt_version" : 2,
 	"color" : "51 153 204",
 	"image" : "vtc.png",
-	"priority" : 1000,
 	"updates" : [
 		{
 			"identifier": "vtc",
