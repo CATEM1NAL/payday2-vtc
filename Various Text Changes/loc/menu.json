@@ -22,7 +22,6 @@
 	"menu_steam_inventory_help" : "View your collection of skins and accept new ones.",
 	"menu_movie_theater" : "Movies",
 	"menu_movie_theater_help" : "Watch cinematics related to the PAYDAY 2 story.",
-	"dialog_are_you_sure_you_want_to_clear_progress" : "This process is irreversible.\n\nYour loadout will be wiped and you will be reset to infamy 0, level 0.\n\nAre you 100% certain you want to do this?",
 	"menu_infamy_name_root" : "The Infamous",
 	"menu_infamy_name_ghost" : "The Assassin",
 	"menu_infamy_name_mastermind" : "The Doctor",

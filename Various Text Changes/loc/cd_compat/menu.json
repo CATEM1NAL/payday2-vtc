@@ -1,5 +1,6 @@
 {
 	"menu_reset_account" : "Delete Save Data",
 	"menu_reset_account_help" : "Deletes your save data. Only do this if you're 100% sure this is what you want to do.",
+	"dialog_are_you_sure_you_want_to_clear_progress" : "This process is irreversible.\n\nYour loadout will be wiped and you will be reset to infamy 0, level 0.\n\nAre you 100% certain you want to do this?",
 	"menu_end_game" : "Main Menu",
 }
