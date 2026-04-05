@@ -871,4 +871,5 @@
 	"hud_int_release_cancel" : "Release $BTN_INTERACT to Cancel",
 	"hud_int_press_cancel_alarm" : "$BTN_INTERACT Trigger Alarm",
 	"hud_int_hold_xm20_mask" : "$BTN_INTERACT Take Mask",
+	"debug_interact_trip_mine" : "$BTN_INTERACT Toggle Mine",
 }

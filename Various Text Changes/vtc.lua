@@ -21,19 +21,22 @@ Hooks:Add("LocalizationManagerPostInit", "vtc_loc", function(loc)
 	loc:load_localization_file(VTCPath .. "loc/fixes.json")
 	if vtc_options.vtc_main_menu then
 		loc:load_localization_file(VTCPath .. "loc/menu.json")
+		if not CrimDawn then
+		  loc:load_localization_file(VTCPath .. "loc/cd_compat/menu.json")
+		end
 	end
 	if vtc_options.vtc_crimenet then
-		LocalizationManager:load_localization_file(VTCPath .. "loc/crimenet.json")
+		loc:load_localization_file(VTCPath .. "loc/crimenet.json")
 	end
 	if vtc_options.vtc_preplanning then
-		LocalizationManager:load_localization_file(VTCPath .. "loc/preplanning.json")
+		loc:load_localization_file(VTCPath .. "loc/preplanning.json")
 	end
 	if vtc_options.vtc_gameplay then
-		LocalizationManager:load_localization_file(VTCPath .. "loc/gameplay.json")
-		LocalizationManager:load_localization_file(VTCPath .. "loc/hints.json")
+		loc:load_localization_file(VTCPath .. "loc/gameplay.json")
+		loc:load_localization_file(VTCPath .. "loc/hints.json")
 	end
 	if vtc_options.vtc_discord then
-		LocalizationManager:load_localization_file(VTCPath .. "loc/discord.json")
+		loc:load_localization_file(VTCPath .. "loc/discord.json")
 	end
 end)
 

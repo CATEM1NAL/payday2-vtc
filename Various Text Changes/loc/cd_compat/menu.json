@@ -1,0 +1,5 @@
+{
+	"menu_reset_account" : "Delete Save Data",
+	"menu_reset_account_help" : "Deletes your save data. Only do this if you're 100% sure this is what you want to do.",
+	"menu_end_game" : "Main Menu",
+}
