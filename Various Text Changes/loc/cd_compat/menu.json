@@ -3,4 +3,7 @@
 	"menu_reset_account_help" : "Deletes your save data. Only do this if you're 100% sure this is what you want to do.",
 	"dialog_are_you_sure_you_want_to_clear_progress" : "This process is irreversible.\n\nYour loadout will be wiped and you will be reset to infamy 0, level 0.\n\nAre you 100% certain you want to do this?",
 	"menu_end_game" : "Main Menu",
+	"menu_abort_mission" : "Exit Heist",
+	"dialog_abort_mission_text" : "Are you sure you want to exit the current heist?\n\nYou and your crew will be returned to the lobby where you can pick another heist.",
+	"dialog_blackmarket_slot_item_sell" : "You will be refunded $money.",
 }
